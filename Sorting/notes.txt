@@ -1,0 +1,21 @@
+Internal sorting - main memory
+1. Bubble sort
+2. Selection sort
+3. Insertion sort
+4. Quick sort
+5. Heap sort
+
+External sorting - secondary memory
+1. Merge sort
+
+Insertion sort
+22  11  55  20  3   7   2   50
+
+pass 1:     22
+pass 2:     11 22
+pass 3:     11 22 55
+pass 4:     11 20 22 55
+pass 5:     3  11 20 22 55
+pass 6:     3  7  11 20 22 55
+pass 7:     2  3  7  11 20 22 55
+pass 8:     2  3  7  11 20 22 50 55

@@ -1,0 +1,15 @@
+1. leetcode
+https://leetcode.com/contest/biweekly-contest-83/problems/number-of-zero-filled-subarrays/
+
+2. reverse the number and store in array;
+
+3. sorting
+
+4. leetcode 2
+https://leetcode.com/contest/weekly-contest-298/problems/greatest-english-letter-in-upper-and-lower-case/
+
+5. AVL Tree
+
+6. Deletion of node in BST
+
+7. CC Lab 2 & 5

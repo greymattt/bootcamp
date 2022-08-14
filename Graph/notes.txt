@@ -1,0 +1,2 @@
+Adjacent matrix form
+if connection is there insert 1 else 0
