@@ -1,16 +1,18 @@
 package Test;
-class Node {
-    int data;
-    Node next;
 
-     Node (int x) {
-         data = x;
-         next = null;
-     }
-}
 
 class LinkedList {
     Node head;
+    class Node {
+        int data;
+        Node next;
+
+         Node (int x) {
+             data = x;
+             next = null;
+         }
+    }
+
     void insert(int x) {
         Node newnode = new Node(x);
         newnode.next = head;
@@ -23,7 +25,13 @@ class LinkedList {
             System.out.printf("%d ", curNode.data);
             curNode = curNode.next;
         }
-        System.out.printf("%d ", curNode.data);
+    }
+
+    void displayMod(int x) {
+        Node curNode = head;
+        while (curNode != null) {
+            
+        }
     }
 }
 

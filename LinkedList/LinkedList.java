@@ -48,5 +48,3 @@ public class LinkedList {
     }
 
 }
-Java program to delete nodes which have a greater value on
-right side
